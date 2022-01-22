@@ -7,4 +7,5 @@ public class PaymentInfo {
     // in cents for Stripe
     private int amount;
     private String currency;
+    private String receiptEmail;
 }
